@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyMovies</string>
+    <string name="rating">Rating: %1$.1f</string>
+</resources>
